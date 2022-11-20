@@ -1,0 +1,6 @@
+# ninja log v5
+0	907	1668983628161047202	CMakeFiles/graphics.dir/circle.cpp.o	fa3290aaf2fd84be
+3	797	1668983750001910077	CMakeFiles/graphics.dir/shape.cpp.o	6097d2e453265260
+3	797	1668983750002416733	CMakeFiles/graphics.dir/rect.cpp.o	51f8efe1659cc8e
+2	955	1668983750160438921	CMakeFiles/graphics.dir/graphics.cpp.o	49ae07329c1d1515
+955	1145	1668983750352613322	graphics	5752173778874506

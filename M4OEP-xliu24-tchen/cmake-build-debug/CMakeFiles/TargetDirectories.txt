@@ -1,0 +1,3 @@
+/Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen/cmake-build-debug/CMakeFiles/graphics.dir
+/Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

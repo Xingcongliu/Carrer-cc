@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen" -B "/Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen/cmake-build-debug"
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen/cmake-build-debug
