@@ -1,4 +1,4 @@
-# Install script for directory: /Users/liuxingcong/Desktop/22 fall/cs120/M4OEP-xliu24-tchen
+# Install script for directory: /Users/liuxingcong/Desktop/22 fall/cs120/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
