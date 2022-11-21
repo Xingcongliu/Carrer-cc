@@ -4,7 +4,7 @@
 # Introduction
 * Project members: Xingcong Liu and Tingwei Chen
 * Project description: This is a very interesting video game. You can use the touch pad or the mouse to manipulate a square to avoid the lawn and clouds in motion.
-* Module 4 concepts used：
+* concepts used：
     * OpenGL, GLUT
     * Drawing
     * Keyboard listener(s)
@@ -13,7 +13,7 @@
     * Graphics with C++ classes
 * Project bugs：no bugs
 * Project future improvements: In the future, we will turn the mouse-controlled cube into a flying bird. And the clouds will randomly change position and size to increase the difficulty and playability of the game. Also, we will add colorful crumbs as bonuses and give a score at the end of the game. This game is called bird video game.
-* The expert grade: 100/100
+
 * Ciation for outside source code: running and confettify-button (come from GP project)
     * https://github.com/uvmcs120f2022/M4GP-Confettify-Button-xliu24.git
     * https://github.com/uvmcs120f2022/Runner-xliu24.git
